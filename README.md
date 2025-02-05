@@ -9,3 +9,5 @@ Meus projetos feitos em HTML5, CSS3 e JavaScript
 <a href="https://lns017.github.io/projetos-js/projeto03-imc/index.html">Calculadora de IMC</a>
 
 <a href="https://lns017.github.io/projetos-js/projeto04-juros/index.html">Calculadora de Juros Compostos</a>
+
+<a href="https://lns017.github.io/projetos-js/projeto06-todo-list/index.html">To Do List | LnsDev</a>
